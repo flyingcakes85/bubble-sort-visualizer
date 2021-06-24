@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  padding: 10px;
+}
+
+canvas {
+  padding: 2px;
+}
